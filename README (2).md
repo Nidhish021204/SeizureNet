@@ -1,8 +1,8 @@
-# SeizuGraph: Dynamic Graph Neural Networks for EEG-Based Seizure Detection
+# SeizureNet: Dynamic Graph Neural Networks for EEG-Based Seizure Detection
 
 ## Project Overview
 
-SeizuGraph is a deep learning framework built to detect and classify epileptic seizures using EEG (Electroencephalography) signals. By modeling brain activity as a dynamic graph and applying Graph Neural Networks (GNNs), this system captures rich spatio-temporal, semantic, and taxonomic relationships between brain regions to enhance diagnostic accuracy.
+SeizureNet is a deep learning framework built to detect and classify epileptic seizures using EEG (Electroencephalography) signals. By modeling brain activity as a dynamic graph and applying Graph Neural Networks (GNNs), this system captures rich spatio-temporal, semantic, and taxonomic relationships between brain regions to enhance diagnostic accuracy.
 
 This project is inspired by research in neuroinformatics and brain signal modeling, and aims to support early and accurate seizure prediction for healthcare applications.
 
@@ -93,15 +93,5 @@ plot_brain_graph(graph_data)
 
 **Nidhish Chettri**  
 B.Tech, Maharaja Agrasen Institute of Technology, Delhi  
-- LinkedIn: https://linkedin.com/in/nidhish-chettri  
-- GitHub: https://github.com/nidhish-chttri
-
-## License
-
-This project is open-sourced under the MIT License. See the LICENSE file for details.
-
-## Acknowledgments
-
-- Inspired by NeuroGNN (USC InfoLab): https://github.com/USC-InfoLab/NeuroGNN  
-- EEG data sourced from PhysioNet: https://physionet.org/  
-- GNN implementations inspired by PyTorch Geometric: https://pytorch-geometric.readthedocs.io/
+- LinkedIn: [https://linkedin.com/in/nidhish-chettri ](https://www.linkedin.com/in/nidhish-chettri-b0378428b/) 
+- GitHub: [https://github.com/nidhish-chttri](https://github.com/Nidhish021204)
